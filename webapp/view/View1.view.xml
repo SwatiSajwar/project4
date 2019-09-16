@@ -14,6 +14,7 @@
 						<OverflowToolbar>
 							<ToolbarSpacer/>
 							<Button type="Accept" text="Accept"/>
+							<Button type="Reject" text="Reject"/>
 						</OverflowToolbar>
 					</footer>
 				</Page>
